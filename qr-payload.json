@@ -1,7 +1,7 @@
 {
   "android.app.extra.PROVISIONING_DEVICE_ADMIN_COMPONENT_NAME": "com.guardianshield.agent/.AdminReceiver",
   "android.app.extra.PROVISIONING_DEVICE_ADMIN_PACKAGE_DOWNLOAD_LOCATION": "https://github.com/battyesoft/guardian-releases/releases/download/2/app-release.apk",
-  "android.app.extra.PROVISIONING_DEVICE_ADMIN_PACKAGE_CHECKSUM": "90LSEhiYAeUBPBQiRBpodOQPoKPtmfwdYGzh09Dvvhk",
+  "android.app.extra.PROVISIONING_DEVICE_ADMIN_PACKAGE_CHECKSUM": "wpbvfqEKnzIPDQywhsNalM7Qa6tV2O3QN-jk9SkVH2I",
   "android.app.extra.PROVISIONING_SKIP_ENCRYPTION": false,
   "android.app.extra.PROVISIONING_LEAVE_ALL_SYSTEM_APPS_ENABLED": true
 }
